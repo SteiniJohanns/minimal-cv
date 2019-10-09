@@ -1,0 +1,23 @@
+Main {
+  color: azure;
+}
+.ArtTitle {
+  padding-left: 20px;
+  font-size: 36px;
+  font-weight: bold;
+  margin: 10px 0px;
+}
+.ArtSubT {
+  padding-left: 30px;
+  font-size: 24px;
+  font-weight: bold;
+  color:  rgb(4, 133, 90);
+  margin: 10px 0px;
+
+}
+.ArtMain {
+  padding-left: 30px;
+  font-size: 20px;
+  text-align: justify;
+
+}

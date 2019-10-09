@@ -1,0 +1,28 @@
+.Header {
+  height: 10em;
+  border-bottom-width: 2px;
+  border-bottom-color: rgb(4, 133, 90);
+  border-bottom-style: solid;
+}
+.HeaderLeft {
+  float: left;
+  padding-top: 15px;
+}
+.HeaderLeftName {
+  font-size: 60px;
+  color: white;
+  padding-left: 10px;
+}
+.HeaderLeftSub {
+  font-size: 26px;
+  color: white;
+  padding-left: 15px;
+}
+.HeaderRight {
+  align-content: right;
+  float: right;
+}
+img {
+  border-radius: 5px;
+  height: 150px;
+}
